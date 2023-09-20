@@ -56,9 +56,3 @@ fs.rename("file2.txt", "renameFile.txt", (err) => {
 // for delete
 fs.unlinkSync("file2.txt")
 
-
-
-// **************************************************************
-
-
-
